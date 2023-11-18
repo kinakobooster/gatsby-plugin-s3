@@ -41,10 +41,7 @@
         "typescript": "^5.1.6"
     },
     "dependencies": {
-        "gatsby-plugin-s3": "file:gatsby-plugin-s3",
-    //    "gatsby-plugin-s3-e2e-tests": "file:gatsby-plugin-s3-e2e-tests",
-    //    "gatsby-plugin-s3-example-with-redirects": "file:examples\\with-redirects",
-    //    "gatsby-plugin-s3-example-with-serverless": "file:examples\\with-serverless"
+        "gatsby-plugin-s3": "file:gatsby-plugin-s3"
     },
     "optionalDependencies": {
         "gatsby": "^5.0.0"
