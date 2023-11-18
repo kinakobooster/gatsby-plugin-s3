@@ -45,5 +45,6 @@
     },
     "optionalDependencies": {
         "gatsby": "^5.0.0"
-    }
+    },
+    "postinstall": "npm run build"
 }
